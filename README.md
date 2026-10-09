@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Deven Kalra 👋</h1>
+<h3 align="center">Core Backend Engineer & Deep Learning Enthusiast</h3>
 
-<!--
-**ideven85/ideven85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 About Me
+- 🔭 **Current Focus:** Building scalable backend systems and exploring computer vision and advanced deep learning architectures.
+- ⚙️ **Core Stack:** Java, Spring Boot, Microservices, Python, FastAPI, Flask, Docker, Kubernetes.
+- 🧠 **Continuous Learning:** Advanced coursework in machine learning and statistics (MITx modules).
+- 📍 **Based in:** Noida, India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Distributed Systems** | `Java`, `Spring Boot`, `Microservices`, `Python`, `Flask`, `FastAPI` |
+| **AI / Machine Learning** | `PyTorch`, `Vision Transformers`, `GNNs`, `RAG Pipelines`, `LangChain` |
+| **Infrastructure & DevOps** | `Docker`, `Kubernetes`, `Git`, `CI/CD` |
+| **Databases & Vector Search** | `MySQL`, `PostgreSQL`, `Vector Databases` |
+
+---
+
+
+---
